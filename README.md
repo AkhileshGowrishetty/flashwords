@@ -15,8 +15,12 @@ Hardware used:
 
 To add more words, copy them to the SD card. They need to be in similar format to that of the words in the folder 'word_examples'.
 
-## Demo
+### 3D Model
+PS: Dimensions are not accurate.
 
+<script src="https://embed.github.com/view/3d/AkhileshGowrishetty/flashwords/master/assets/flashwords_v2.stl"></script>
+
+## Demo
 
 https://user-images.githubusercontent.com/59861388/152161086-cd817524-0774-4ae2-88bc-2e3bf02d9e8f.mp4
 
