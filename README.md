@@ -16,5 +16,7 @@ Hardware used:
 To add more words, copy them to the SD card. They need to be in similar format to that of the words in the folder 'word_examples'.
 
 ## Demo
----
-https://github.com/AkhileshGowrishetty/flashwords/assets/demo.mp4
+
+
+https://user-images.githubusercontent.com/59861388/152161086-cd817524-0774-4ae2-88bc-2e3bf02d9e8f.mp4
+
